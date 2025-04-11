@@ -1,0 +1,6 @@
+{
+    "subscription_id": "c80bdc1b-4a4b-4431-9d26-358f0b3ade9f",
+    "resource_group": "smith-azure-ml-projects",
+    "workspace_name": "ml-churn-genai",
+    "location": "eastus"
+}
